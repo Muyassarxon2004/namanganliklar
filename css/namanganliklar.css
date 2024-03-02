@@ -1,0 +1,185 @@
+body{
+    
+    margin: 0; 
+   
+    font-family:" Rubik","Roboto", sans-serif;
+ }
+
+.namanganliklar{
+    width: 100%;
+    max-width: 276px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    padding: 30px 1044px 30px 120px;
+    color:  #7296EE;
+    background-color: #F6F6F6;
+}
+.site-logo{
+    width: 100%;
+    max-width: 262px;
+    height: 19px;
+    display: flex;
+    align-items: center;
+    padding: 9px 6px 8px 6px;
+    background-color: rgb(254, 249, 249);
+    border-radius: 10px;
+}
+.about{
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    align-items:center; 
+    justify-content: space-between;
+    list-style: none;
+    margin: 0 120px 40px 120px; 
+    padding:30px 0;
+    color:#7F7F7F;
+    border-bottom: 1px solid rgb(209, 209, 209);
+}
+.site-main{
+    display: flex;
+
+    margin-left: 120px;
+     
+}
+
+.shop{
+    width: 100%;
+    max-width: 1200px ; 
+    margin-left: 120px; 
+}
+.hero-box{
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    align-items: flex-start; 
+    flex-wrap: wrap; 
+    justify-content: space-between;  
+    margin-top: 50px; 
+   
+}
+
+.hero-card {
+    width: 100%;
+    max-width: 359px;
+    height: 360px;
+    margin: 0 10px 10px 0;
+    padding: 20px 18px 15px 17px;
+    background-color: #F6F6F6;
+    border-radius: 10px;
+  
+}
+.hero-card-title{
+    margin-top: 0px;
+}
+.card-footer{
+    width: 100%;
+    max-width: 359px !important;
+    height: 165px !important;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+.logo{
+    width: 100%;
+    max-width: 140px;
+    height: 14px;
+   list-style-type: none;
+   padding-left: 10px;
+    color: #5E5F61;
+}
+.hero-wheat{
+    width: 100%;
+    max-width: 352px;
+    height: 382px;
+    margin: 0 10px 10px 0;
+    padding: 20px 17px 15px 17px;
+    background-color: #F6F6F6;
+    border-radius: 10px;
+}
+.hero-wheat-title {
+   margin-top: 0px;
+}
+.wheat-footer{
+    width: 100%;
+    max-width: 360px !important;
+    height: 165px !important;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+.hero-electrocar{
+    width: 100%;
+    max-width: 360px;
+    height: 382px;
+    margin: 0 0 10px 0;
+    padding: 20px 16px 15px 16px;
+    background-color: #F6F6F6;
+    border-radius: 10px;
+}
+.hero-electrocar-title{
+    margin-top: 0px;
+}
+.electrocar-footer{
+    width: 100%;
+    max-width: 360px !important;
+    height: 165px !important;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+.hero-iphone{
+    width: 100%;
+    max-width: 360px;
+    height: 382px;
+    margin: 0 10px 10px 0;
+    padding: 20px 17px 15px 17px;
+    background-color: #F6F6F6;
+    border-radius: 10px;
+}
+.hero-iphone-title{
+    margin-top: 0px;
+}
+.iphone-footer{
+    width: 100%;
+    max-width: 359px !important;
+    height: 165px !important;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+.hero-doctor{
+    width: 100%;
+    max-width: 360px;
+    height: 382px;
+    margin: 0 10px 10px 0;
+    padding: 20px 17px 15px 17px;
+    background-color: #F6F6F6;
+    border-radius: 10px;
+}
+.hero-doctor-title{
+    margin-top: 0px;
+}
+.doctor-footer{
+    width: 100%;
+    max-width: 360px !important;
+    height: 165px !important;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+.hero-jac{
+    width: 100%;
+    max-width: 360px;
+    height: 382px;
+    margin: 0 0 10px 0;
+    padding: 20px 16px 15px 16px;
+    background-color: #F6F6F6;
+    border-radius: 10px;
+}
+.hero-jac-title{
+    margin-top: 0px;
+}
+.jac-footer{
+    width: 100%;
+    max-width: 360px !important;
+    height: 165px !important;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
